@@ -1,0 +1,15 @@
+C:\Users\Alex\RiderProjects\DamnFacade\DamnFacade\bin\Debug\net6.0\DamnFacade.exe
+C:\Users\Alex\RiderProjects\DamnFacade\DamnFacade\bin\Debug\net6.0\DamnFacade.deps.json
+C:\Users\Alex\RiderProjects\DamnFacade\DamnFacade\bin\Debug\net6.0\DamnFacade.runtimeconfig.json
+C:\Users\Alex\RiderProjects\DamnFacade\DamnFacade\bin\Debug\net6.0\DamnFacade.dll
+C:\Users\Alex\RiderProjects\DamnFacade\DamnFacade\bin\Debug\net6.0\DamnFacade.pdb
+C:\Users\Alex\RiderProjects\DamnFacade\DamnFacade\obj\Debug\net6.0\DamnFacade.csproj.AssemblyReference.cache
+C:\Users\Alex\RiderProjects\DamnFacade\DamnFacade\obj\Debug\net6.0\DamnFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\RiderProjects\DamnFacade\DamnFacade\obj\Debug\net6.0\DamnFacade.AssemblyInfoInputs.cache
+C:\Users\Alex\RiderProjects\DamnFacade\DamnFacade\obj\Debug\net6.0\DamnFacade.AssemblyInfo.cs
+C:\Users\Alex\RiderProjects\DamnFacade\DamnFacade\obj\Debug\net6.0\DamnFacade.csproj.CoreCompileInputs.cache
+C:\Users\Alex\RiderProjects\DamnFacade\DamnFacade\obj\Debug\net6.0\DamnFacade.dll
+C:\Users\Alex\RiderProjects\DamnFacade\DamnFacade\obj\Debug\net6.0\refint\DamnFacade.dll
+C:\Users\Alex\RiderProjects\DamnFacade\DamnFacade\obj\Debug\net6.0\DamnFacade.pdb
+C:\Users\Alex\RiderProjects\DamnFacade\DamnFacade\obj\Debug\net6.0\DamnFacade.genruntimeconfig.cache
+C:\Users\Alex\RiderProjects\DamnFacade\DamnFacade\obj\Debug\net6.0\ref\DamnFacade.dll
